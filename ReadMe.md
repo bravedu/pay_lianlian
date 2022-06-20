@@ -93,3 +93,8 @@ func callLianLianPay(goodsName, tradeNum, expire string, userId int, payMoney fl
 }
 
 ```
+
+### RSAWithMd5 签名方式
+
++参考文档
+https://github.com/wenzhenxi/gorsa/blob/15feec0f05a6feb896e30fbf3c9df5d77fa1a421/gorsaSign.go
